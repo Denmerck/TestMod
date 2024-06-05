@@ -1,0 +1,8 @@
+name: "test-mod"
+displayName: "Test Mod"
+author: "Denmerck"
+description: "made with Mobile"
+version: "1.0"
+minGameVersion: "146"
+dependencies: [ ]
+hidden: false
